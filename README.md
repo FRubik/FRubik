@@ -1,9 +1,3 @@
-
-- 💞️ I’m looking to collaborate on ...
-
-
-
-
 - 👋 Hi, I’m @FRubik
 - 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently learning Python and SQL for Data Science
